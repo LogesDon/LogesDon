@@ -1,4 +1,7 @@
 ## Hi there 👋
+# 🌱 I'm currently studying Advanced Mathematics/Computer Science. 
+# 🔭 I’m currently working on something. 
+
 
 <!--
 **LogesDon/LogesDon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
